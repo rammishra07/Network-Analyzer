@@ -1,14 +1,28 @@
-# Backend
+# ======================
+# Backend (Spring Boot)
+# ======================
 Backend/target/
 *.log
 
-# Frontend
+# ======================
+# Frontend (React)
+# ======================
 Frontend/node_modules/
 Frontend/build/
 
-# IDE
+# ======================
+# IDE Files
+# ======================
 .idea/
 *.iml
 
-# OS
+# ======================
+# OS Files
+# ======================
 .DS_Store
+Thumbs.db
+
+# ======================
+# Env Files
+# ======================
+.env

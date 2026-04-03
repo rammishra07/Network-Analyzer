@@ -1,15 +1,14 @@
 # Backend
-backend/target/
-backend/*.log
+Backend/target/
+*.log
 
 # Frontend
-frontend/node_modules/
-frontend/build/
+Frontend/node_modules/
+Frontend/build/
 
-# System files
+# IDE
 .idea/
 *.iml
-.DS_Store
 
-# Env
-.env
+# OS
+.DS_Store
